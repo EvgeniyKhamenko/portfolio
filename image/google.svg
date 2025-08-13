@@ -1,0 +1,15 @@
+<svg width="26.212646" height="26.212765" viewBox="0 0 26.2126 26.2128" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect width="26.212765" height="26.212765" fill="#FFFFFF" fill-opacity="0"/>
+	<path d="M13.1 11.43L13.1 14.77L17.82 14.77C17.13 16.71 15.28 18.11 13.1 18.11C10.34 18.11 8.1 15.86 8.1 13.1C8.1 10.34 10.34 8.1 13.1 8.1C14.3 8.1 15.45 8.53 16.34 9.3L18.53 6.79C17.03 5.48 15.1 4.76 13.1 4.76C8.5 4.76 4.76 8.5 4.76 13.1C4.76 17.7 8.5 21.44 13.1 21.44C17.7 21.44 21.44 17.7 21.44 13.1L21.44 11.43L13.1 11.43Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<mask id="mask2_22" mask-type="alpha" maskUnits="userSpaceOnUse" x="4.765869" y="4.765953" width="16.680851" height="16.680851">
+		<path d="M13.1 11.43L13.1 14.77L17.82 14.77C17.13 16.71 15.28 18.11 13.1 18.11C10.34 18.11 8.1 15.86 8.1 13.1C8.1 10.34 10.34 8.1 13.1 8.1C14.3 8.1 15.45 8.53 16.34 9.3L18.53 6.79C17.03 5.48 15.1 4.76 13.1 4.76C8.5 4.76 4.76 8.5 4.76 13.1C4.76 17.7 8.5 21.44 13.1 21.44C17.7 21.44 21.44 17.7 21.44 13.1L21.44 11.43L13.1 11.43Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask2_22)">
+		<rect width="26.212765" height="26.212765" fill="#FFFFFF" fill-opacity="0"/>
+		<rect width="26.212765" height="26.212765" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+</svg>
